@@ -1,0 +1,27 @@
+{
+  "name": "fluency_simple_stake",
+  "version": "1.0.0",
+  "description": "Simple stake for Fluency",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^2.2.3",
+    "@openzeppelin/upgrades": "^2.5.3",
+    "solc": "^0.5.16"
+  },
+  "devDependencies": {
+    "truffle": "^5.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miquelcabot/fluency_simple_stake.git"
+  },
+  "author": "Miquel A. Cabot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miquelcabot/fluency_simple_stake/issues"
+  },
+  "homepage": "https://github.com/miquelcabot/fluency_simple_stake#readme"
+}
