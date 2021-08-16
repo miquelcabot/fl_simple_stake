@@ -1,5 +1,5 @@
-# fluency_simple_stake
-Simple stake for Fluency
+# fl_simple_stake
+Simple stake Test
 
 ## Requisites
 * [NodeJS](https://nodejs.org/)
